@@ -11,7 +11,7 @@ API REST utilizando framework Phalcon PHP.
 #### Instruções:
 1. Faça um fork deste projeto.
 2. Crie uma branch com o padrão `seunome_yyyy_mm_dd`.
-3. Utilizando o Vagrant implemente o objetivo acima proposto conforme a estrutura solicitada é pré-disponibilizada neste projeto.
+3. Utilizando o Vagrant e o Phalcon PHP implemente o objetivo acima proposto conforme a estrutura solicitada e pré-disponibilizada neste projeto.
 4. Rotas obrigatórias da API:
   - Listar Compromissos (com possibilidade de filtros).
   - Adicionar Compromissos.
