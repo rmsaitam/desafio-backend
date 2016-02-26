@@ -21,11 +21,12 @@ API REST utilizando framework Phalcon PHP.
 6. Ao finalizar este desafio, envie-nos um pull request com suas alterações e envie um email para gip@agenciasys.com.br com o link para o pull request.
 
 **Dicas:**
-Utilize o Postman para lhe ajudar nos testes.
+  - Utilize o Postman para lhe ajudar nos testes.
+  - Aconselhamos a utilizar o Ubuntu Trusty Server 64bits como box do Vagrant, pois é a versão que utilizamos aqui na empresa ;)
 
 #### Link de documentações para consultas:
-- [Phalcon](https://docs.phalconphp.com/en/latest/index.html)
 - [Vagrant](https://www.vagrantup.com/docs/)
+- [Phalcon](https://docs.phalconphp.com/en/latest/index.html)
 - [Postman](https://www.getpostman.com/docs/)
 
 **Obs:**
