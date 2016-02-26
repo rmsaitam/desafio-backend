@@ -1,9 +1,9 @@
 # Desafio backend: Vagrant / PHP / Phalcon Framework
 
-E aí, beleza? Se você está querendo trabalhar em um ambiente descontraído, fazendo o que gosta e compartilhando conhecimento, este desafio é pra você! ;)
+E aí, beleza? Se você está querendo trabalhar em um ambiente descontraído, fazendo o que gosta e compartilhando conhecimento, este desafio é pra você! :)
 
 #### Objetivo:
-Desenvolver uma aplicação de Agenda de Compromissos;
+Desenvolver uma aplicação de Agenda de Compromissos.
 
 #### Estrutura:
 API REST utilizando framework Phalcon PHP.
@@ -22,7 +22,7 @@ API REST utilizando framework Phalcon PHP.
 
 **Dicas:**
   - Utilize o Postman para lhe ajudar nos testes.
-  - Aconselhamos a utilizar o Ubuntu Trusty Server 64bits como box do Vagrant, pois é a versão que utilizamos aqui na empresa ;)
+  - Aconselhamos a utilizar o Ubuntu Trusty Server 64bits como box do Vagrant, pois é a versão que utilizamos aqui na empresa.
 
 #### Link de documentações para consultas:
 - [Vagrant](https://www.vagrantup.com/docs/)
