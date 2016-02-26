@@ -29,7 +29,6 @@ API REST utilizando framework Phalcon PHP.
 - [Phalcon](https://docs.phalconphp.com/en/latest/index.html)
 - [Postman](https://www.getpostman.com/docs/)
 
-**Obs:**
-Em caso de dúvidas, envie um email para gip@agenciasys.com.br.
+*Em caso de dúvidas, envie um email para gip@agenciasys.com.br.*
 
 Faça o seu melhor! ;)
