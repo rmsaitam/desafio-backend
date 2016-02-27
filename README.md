@@ -29,6 +29,29 @@ API REST utilizando framework Phalcon PHP.
 - [Phalcon](https://docs.phalconphp.com/en/latest/index.html)
 - [Postman](https://www.getpostman.com/docs/)
 
-*Em caso de dúvidas, envie um email para gip@agenciasys.com.br.*
+#### Sobre a configuração do projeto.
 
+É necessário que você tenha VirtualBox e Vagrant instalados no seu computador.
+
+- Url do projeto: `localhost:8000`. 
+- Caso você tenha o Apache, Nginx ou outro servidor rodando na sua máquina, certifique-se de que não esteja utilizando a porta `8000`.
+- A configuração de host virtual está no arquivo `vagrant/config/nginx/conf.d/desafio-backend.conf`. Você pode alterá-lo para a configuração que achar melhor, se assim desejar.
+
+Os comandos a seguir configuram a base do projeto em um ambiente linux, caso você utilize outro sistema operacional, é necessário procurar os comandos equivalentes.
+
+Abra o terminal e digite:
+```sh
+vagrant box add desafio-backend https://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box
+```
+
+Aguarde o download finalizar. Este passo pode demorar um pouco dependendo da sua conexão. Ainda no terminal, entre na pasta `vagrant` do projeto `desafio-backend`  e rode o sequinte comando:
+```sh
+vagrant up
+```
+
+Aguarde a configuração terminar. Após isso, o ambiente de desenvolvimento estará devidamente configurado.
+
+Daqui pra frente é com você.
 Faça o seu melhor! ;)
+
+*Em caso de dúvidas, envie um email para gip@agenciasys.com.br.*
