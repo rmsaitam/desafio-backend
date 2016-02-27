@@ -44,7 +44,8 @@ Abra o terminal e digite:
 vagrant box add desafio-backend https://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box
 ```
 
-Aguarde o download finalizar. Este passo pode demorar um pouco dependendo da sua conexão. Ainda no terminal, entre na pasta `vagrant` do projeto `desafio-backend`  e rode o sequinte comando:
+Aguarde o download finalizar. Este passo pode demorar um pouco dependendo da sua conexão. 
+Ainda no terminal, entre na pasta `vagrant` do projeto `desafio-backend`  e rode o seguinte comando:
 ```sh
 vagrant up
 ```
