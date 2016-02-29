@@ -3,7 +3,7 @@
 E aí, beleza? Se você está querendo trabalhar em um ambiente descontraído, fazendo o que gosta e compartilhando conhecimento, este desafio é pra você! :)
 
 #### Objetivo:
-Desenvolver uma aplicação de Agenda de Compromissos.
+Desenvolver uma API REST para uma aplicação de Agenda de Compromissos.
 
 #### Estrutura:
 API REST utilizando framework Phalcon PHP.
